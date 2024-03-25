@@ -1,0 +1,14 @@
+.card-img-top{
+  aspect-ratio: 1/1;
+}
+
+select{
+  background-color: blue;
+  border: none;
+  padding: 5PX;
+  border-radius: 5PX;
+}
+
+option{
+  background-color: white;
+}
